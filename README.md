@@ -1,0 +1,1 @@
+"# Infinity.solutions.test.task" 
